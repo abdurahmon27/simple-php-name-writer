@@ -1,5 +1,5 @@
-# simple-php-name-writer
+## simple-php-name-writer
 
-Name-wireter in php.
+# Name-wrieter in php.
 
-I made this when I was 15
+# I made this when I was 15
